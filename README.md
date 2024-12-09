@@ -1,2 +1,1 @@
-## Oficial Repository of the new framework:
-# Arpa.js
+## Oficial Repository of the new framework: `Arpa.js`
